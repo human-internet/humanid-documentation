@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="fingerprint.png" />
+  <img src="https://user-images.githubusercontent.com/2031493/80385493-4f1b8480-88d0-11ea-8110-ab62c747a997.png" width="200" height="200">
 </p>
 
 
