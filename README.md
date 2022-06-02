@@ -256,7 +256,7 @@ Server Credentials are designed for non-mobile web-based applications. They are 
 &emsp;&emsp;&emsp;**Client Secret**
 
 
-&emsp;&esmp;&esmp;The Client Secret is a second key which is used to authenticate the application for its delegated Authorization Server, and grant tokens only to authorized parties. This key is also used to communicate with the humanID API. This key must always be kept confidential. .
+&emsp;&emsp;&emsp;The Client Secret is a second key which is used to authenticate the application for its delegated Authorization Server, and grant tokens only to authorized parties. This key is also used to communicate with the humanID API. This key must always be kept confidential. .
 
 
 &emsp;&emsp;&emsp;**App ID**
